@@ -1,4 +1,4 @@
-#### About me
+### About me
 
 My name is Ilya, 
 
@@ -17,7 +17,7 @@ My favorite libs and technologies:
 
 I prefer working on architecture and layout and I don't like programming much.
 
-#### My projects
+### My projects
 
 - [webpage-saver](https://github.com/crythoughts/webpage-saver) - this app saves page by url or html code, downloads all of it assets and allows to view archived version of page with all of the assets replaced to downloaded ones.
 - [combined](https://github.com/crythoughts/combined) - attempt to create a compositing system.
@@ -27,4 +27,8 @@ I prefer working on architecture and layout and I don't like programming much.
 
 #### Other
 
-- [OpenVK](https://github.com/openvk/openvk) - music, documents, frontend for IM, I don't remember all of them bc got used to them. These features are not so good, but as I gathered from the feedback, they are at least usable.
+- [OpenVK](https://github.com/openvk/openvk) - music, documents, frontend for IM. These features are not so good, but as I gathered from the feedback, they are at least usable.
+
+### Links
+
+- Telegram: makar0nny, Discord: makar0nny_
